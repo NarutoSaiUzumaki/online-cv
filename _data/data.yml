@@ -9,16 +9,15 @@ sidebar:
     # Profile information
     name: Prashanth
     tagline: Full Java Stack Developer
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: WhatsApp Image 2018-09-12 at 5.14.40 PM.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: neva.giv.up89@gmail.com
     phone: 9842444938
-    website: blog.webjeda.com #do not add http://
     github: Prashanth
-    gitlab:
+   
   
-    codewars:
+    
 
     languages:
       - idiom: English
@@ -30,27 +29,43 @@ sidebar:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Basketball
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    title: Profile
+    summary: | 
+    
+•	Over 7 years of IT experience in Analysis, Design, Development, Implementation and Testing of Client/Server, Distributed, Internet and E-Commerce Applications using Object Oriented and RDBMS Concepts.
+•	Expertise in developing J2EE applications and deploying it in Web sphere 6.0, Web Logic11, and Tomcat, Web services technologies.
+•	Experience in Banking Industry, ECOM and Health Care Industry.
+•	Expertise in using various open source frameworks like Object Relational Mapping Technologies - Hibernate, JPA.
+•	Expertise in development frameworks spring, EJB, Hibernate and Mybatis. 
+•	Experience in using the Object Relational Mapping Tool Hibernate and SQL Mapping framework tool MyBatis, strong in using XML mappings and Java Objects.
+•	Extensive experience in modeling presentation tier using MVC2 (Model-View-Controller) architecture.
+•	Strong working experience with IDE's - Eclipse 3.x, RAD 8.0.
+•	Design and development of web-based applications using different Web and application servers such as Apache Tomcat.
+•	Strong analytical and conceptual skills in database design and development using Oracle, DB2, MySql.
+•	Designed, configured and managed public/private cloud infrastructures utilizing Amazon Web Services (aws).
+•	Experienced in making project documentation such as Technical Design Document, Test Cases, User Manual, Backup and Recovery Plans etc.
+•	Good experience with Multithreading, Collections and Exceptions.
+•	Good Knowledge in UNIX commands and in creating Unix Shell Scripts.
+•	Developed scripts for unit testing usingJUnit.
+•	Experience in using various Configuration Management tools like CVS, Clear Case and SVN.
+•	Worked on frameworks like Spring framework, O/R Mapping Hibernate framework and web services (SOAP and Restful). 
+•	Wrote complex SQL Queries, Stored Procedures and Triggers. 
+•	Worked on relational databases like ORACLE, POSTGRESQL and SQL Server. Have Knowledge on MONGODB and NO SQL
+•	Self-motivated and enjoy working in a technically challenging environment, possess excellent communication and interpersonal skills.
+•	Served as a role model / mentor for other members of the team which include design reviews, debugging assistance, brainstorming, code reviews, process enforcement, working multiple projects and delivering on time. 
+•	Good exposure to Agile Work Environment. Worked on Testing with different testing tools and prepared unit testing, Module testing, System testing and Acceptance testing plans.
+•	Excellent knowledge of Software Quality Assurance testing life cycle & experience in Functional Testing UI, developer tools (Object AID).
 
-      Second paragraph if required.
 
 education:
     - degree: Masters in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Wilmington University
+      time: 2013 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -61,9 +76,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelores
+      university: JNTU
+      time: 20 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,96 +90,144 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Sr. Java/J2EE Developer @ Prudential, NJ	
+      time: May’17 to Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+      Responsibilities: 
+	 Developed Java components to render web content and also to store content meta data information apart from storing in IBM WCM repository.
+•	Application was developed using the Core Java concepts. 
+•	Involved in Component Design, which is created in the Conduct stage, at which point it is reviewed against the quality criteria defined for it
+•	Worked on Vignette and WCM Content Management Systems, WCM provides a flexibility to migrate content without impacting the presentation layer.
+•	Developed a CDA\CMA component using ASP.NETwhich holds the authentication\entitlement as well as various business rules, by utilizing the component we would be able to avoid rewrite efforts. Performance will be similar to current application. 
+•	Java component developed would interact with backend Integration Layer. Custom Java application with SQL server 2005 database as backend. It provides content rendering feature for FP Portal to end users.
+•	IBM web content authoring is used to author web content and it is integrated with CMA database through custom build Java component. It will leverage existing custom Java Application (CDA) to display content details depending upon user role.
+•	Created several JSP's and populated them with data from database. 
+•	Created web services based on SOA.
+•	Designing and developing REST based Web service calls using Jax-RS.
+•	Designed and developed SOAP web service to provide data to other systems.
+•	Provided spring based RESTful Web service.
+•	Writing Java code to use Apache Axis web service API, developing Oracle PL/SQL Stored Procedures code.
+•	Worked within SOA based enterprise framework to build web services.
+•	Planned and implemented various SQL, Stored Procedure, and triggers. 
+•	Implemented the critical functionalities using Java and Oracle packages &stored procedures. Developed UNIX based scripts to apply database scripts on beta, QA and production servers. Performance tuning of SQL.
+•	Used My SQL database and implemented connection pooling.  
+•	Performed building and deployment of WAR, JAR files on test, stage, and production systems in Apache Tomcat application server.  
+•	 Implemented the DAOs and service layers for the various backend systems and services. 
+•	Implemented an automated functional testing suite and increased test coverage from 20 to nearly 80.
+•	Analysis of test requirement and automation feasibility.
+•	Create team specific agile process flow in JIRA to move tasks from one activity to another.
+•	Investigated various products from Atlassians JIRA.
+•	 Involved in monthly and weekly Releases, and provided production support as part of the SLA. 
+Environment:Java 1.7, Vignette V8.1, Vignette Development Center, IBM WCM,  XML, Eclipse 3.8, SOAP Web Service,Restful,JavaScript, JIRA, SVN, MySQL,OracleSqlDeveloper,Unix, Apache Tomcat Server.
 
-          - Bullet point
-          - Bullet point 
+        
+         
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Sr. Java/J2EE Developer @ PepsiCo Inc, White Plains, NY	
+      time: Oct’15 to Apr’17
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Responsibilities:
+•	Different systems will be updated with the data collected in these web screens, also obtain data from various systems using web services.
+•	All the functionality is implemented using Spring IO / Spring Boot, and Hibernate ORM. 
+•	Implemented application level persistence using mybatis and Spring. 
+•	Implemented Java EE components using Spring MVC, Spring IOC, spring transactions and Spring security modules.
+•	Used Microservices architecture to break down the monolithic application to independent components.
+•	Implemented multi-threaded jobs to process the loan requests concurrently.
+•	Deployed applications on to Amazon EC2 to obtain the application scalability.
+•	Used Amazon Route 53 to register the domain and check the health of the instance.
+•	Used Amazon S3 for storing the Boot Strap Scripts.
+•	Used PostgreSQL available on Amazon RDS to store internal application data.
+•	Responsible for analyzing requirements and writing technical specification documents.
+•	Designed the prototype screens using UEF (User Experience Framework) SSA owned UI framework.
+•	Designed and developed the application using  MVC Framework and UEF (User Experience Framework).
+•	Used Java Script/JQuery for client-side 
+•	Extensive experience on modern front-end template frameworks for JavaScript including Bootstrap, JQuery, AngularJS.
+•	Developed a cross-device/cross-browser web application for real-time location sharing utilizing AngularJS, JavaScript API.
+•	Used Eclipse as IDE, configured and deployed the application onto WebLogic application server using Maven build scripts to automate the build and deployment process.
+•	Used EJB 3.0 to develop services (business logic) in the middle tire.
+•	Worked in the backend by using Java persistence API (Jpa) for writing named and native queries.
+•	Written criteria queries using criteria API.
+•	Used web service client to consume web services for getting data from different web services.
+•	Used Data Power for web service security.
+•	Used JEE security for role based application authentication.
+•	Implemented test driven development using Junit.
+•	Participated in performance tuning the existing queries using select inserts, removing complex joins etc.
+•	Played a major role in production support and emergency releases by fixing the defects by analyzing the production logs.
+•	Used RAD 8.0 as Integrating Development Editor.
+•	Deployed the application in Web Spher8.5 application server.
+•	Used DB2 to store and retrieve the data.
+•	Involved in preparation of Verification Scripts to test applications in Production.
 
-          - Bullet point
-          - Bullet point
+Environment: J2EE, JSP,MyBatis,Web sphere 7/8.5, XML, JUnit, JPA, AWS, JavaScript, JQuery, CSS, RAD 8.0, DB2,Micro Services, Spring IO, Spring boot, Spring MVC, Hibernate ORM,Angularjs,  Windows 10,MKS, Maven, ALM.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role:Sr.Java/ J2EE Developer @ Cigna Healthcare,CT                                                          
+      time: Apr’14 to Sep’15
+   
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+      Responsibilities: 
 
-          - Bullet point
-          - Bullet point
+•	Involved in various phases of Software Development Life Cycle (SDLC).
+•	Responsible for analyzing business requirements.
+•	Implemented the persistence of the Objects using Hibernate ORM framework.
+•	Used Spring Framework for Dependency injection and integrated with Hibernate.
+•	Produced and consumed various Restful APIs and consumed SOAP based web services.
+•	Used WSAD as IDE in developing EJB and deploying in server. 
+•	Generated Session beans, CMP and Message Driven Beans, and deployed on Websphere. 
+•	Implemented JMS to asynchronously send and receive messages, Error Tickets placed in Message Queues automatically generated and updated into database by Remedy Trigger. 
+•	Installed, configured, maintained and administered Linux / UNIX operating systems and components. 
+•	Prepared prototypes for the project, based on the user requirements. 
+•	Involved in developing code for obtaining bean references in spring framework using Dependency Injection (DI) or Inversion of Control (IOC) using annotations. 
+•	Worked on coding of Servlets and EJB communication. 
+•	Used Hibernate framework for data persistence. 
+•	Involved in creating the Hibernate POJO Objects and mapped using Hibernate Annotations for data persistence. 
+•	Used AWS Lambda with AWS services as event sources 
+•	Involved in working with Scrum Agile process with two week iterations delivering new features and working software at each iteration 
+•	Prepared Low Level Designs (LLDs) and UNIT Test Cases.
+•	Performed Code Review to ensure Organization and Project level standards are met and checked for redundant code. 
+•	Installed, configured and hosted the Tomcat app servers and MySQL DB servers on physical servers (Linux, Mac, and Windows).
+•	Implemented different levels of logging and timely backups using Log4j. 
+•	Used putty for UNIX login to run the batch jobs and check server logs. 
+•	VMware ESXi 5.5/vSphere Installation & Configuration. 
+•	Installation, Configuration and maintenance of Hosted VMware products. 
+•	Played a key role in the development and maintenance of the application. 
+•	Experience in installing and configuring kick start in Linux. 
+•	Extensive experience in setup, configuration, upgrade, maintenance, performance monitoring and troubleshooting on different UNIX platforms like Linux, VMWARE and system software and hardware 
+•	Performed Unit Testing and System Integration Testing. 
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+Environment: Java, J2EE, RMI, XML, XSD, Spring, Hibernate, SOA, Web Services, Business Objects, SAX/DOM, Websphere, JMS, JDBC, JNDI, JSP, EJB, Java Servlets, JavaScript,  HTML UML, Cloud Foundry, Agile, Clear Case, HTTP, HTTPS, SSL, Dream Weaver and Windows NT, Linux.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+- role:Sr.Java/ J2EE Developer @ HDFC Bank, Hyderabad, India                                                                           
+      time: Jan’10 to Feb’13
+   
+      details: |
+      Responsibilities: 
+•	Implemented SOA architecture using Enterprise Service Bus (ESB). 
+•	Configured business applications in XML bean definition files using SPRING. 
+•	Worked on Hibernate ORM. Created Hibernate XML files and Java class files to map the object relation mappings. Used Hibernate query language. 
+•	Provided data persistence by object/relational mapping solution via Hibernate for application save, update, delete operations. 
+•	Worked on JPA for persisting the objects into the system. 
+•	Created services for various modules like Account (CD/Checking/Savings) Creation and Maintenance using SPRING. 
+•	Experienced in finding the Memory Leaks and adjusting the JVM Heap Sizes and GC Parameters using JProfile 5.1.
+•	Worked on Axis implementation and used SOAPUI to test the SOAP. 
+•	Worked on XML, XSD and XSLT to parse the request and create the new one based on the specification. 
+•	Developed generic Java packages to produce and consume JMS messages through topics and queues in asynchronous message processing with guaranteed delivery. 
+•	Used IBM MQSeries as the JMS provider.
+•	Utilized Core J2EE design patterns such as Singleton and Data Access Object (DAO) in the implementation of the services. 
+•	Responsible for writing SQL Queries and Procedures using DB2. 
+•	Responsible for writing JUnit test cases and Peer level testing. 
+•	Improved database performance by recognizing and rewriting slow queries. 
+•	Build & Deployment in Websphere Application Server. 
+•	Solid deployment experience on the UNIX platform. 
+•	Created UML diagrams such as Class Diagrams and Sequence Diagrams using IBM Rational Rose. 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+Environment: Java 1.5, SOA, JMS, JMX, IBM MQ Series 5.3, Web Services, Axis, SOAPUI, Hibernate, JNDI, XML, XSD, JAXB, JAXP, Spring, Junit, JProfile 5.1, Ant, JPA, JTA, JDBC 2.0, Maven, PL/SQL Developer, DB2, Unix, Log4J, UML and Agile.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
