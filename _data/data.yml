@@ -37,29 +37,29 @@ career-profile:
     title: Profile
     summary: | 
     
-•	Over 7 years of IT experience in Analysis, Design, Development, Implementation and Testing of Client/Server, Distributed, Internet and E-Commerce Applications using Object Oriented and RDBMS Concepts.
-•	Expertise in developing J2EE applications and deploying it in Web sphere 6.0, Web Logic11, and Tomcat, Web services technologies.
-•	Experience in Banking Industry, ECOM and Health Care Industry.
-•	Expertise in using various open source frameworks like Object Relational Mapping Technologies - Hibernate, JPA.
-•	Expertise in development frameworks spring, EJB, Hibernate and Mybatis. 
-•	Experience in using the Object Relational Mapping Tool Hibernate and SQL Mapping framework tool MyBatis, strong in using XML mappings and Java Objects.
-•	Extensive experience in modeling presentation tier using MVC2 (Model-View-Controller) architecture.
-•	Strong working experience with IDE's - Eclipse 3.x, RAD 8.0.
-•	Design and development of web-based applications using different Web and application servers such as Apache Tomcat.
-•	Strong analytical and conceptual skills in database design and development using Oracle, DB2, MySql.
-•	Designed, configured and managed public/private cloud infrastructures utilizing Amazon Web Services (aws).
-•	Experienced in making project documentation such as Technical Design Document, Test Cases, User Manual, Backup and Recovery Plans etc.
-•	Good experience with Multithreading, Collections and Exceptions.
-•	Good Knowledge in UNIX commands and in creating Unix Shell Scripts.
-•	Developed scripts for unit testing usingJUnit.
-•	Experience in using various Configuration Management tools like CVS, Clear Case and SVN.
-•	Worked on frameworks like Spring framework, O/R Mapping Hibernate framework and web services (SOAP and Restful). 
-•	Wrote complex SQL Queries, Stored Procedures and Triggers. 
-•	Worked on relational databases like ORACLE, POSTGRESQL and SQL Server. Have Knowledge on MONGODB and NO SQL
-•	Self-motivated and enjoy working in a technically challenging environment, possess excellent communication and interpersonal skills.
-•	Served as a role model / mentor for other members of the team which include design reviews, debugging assistance, brainstorming, code reviews, process enforcement, working multiple projects and delivering on time. 
-•	Good exposure to Agile Work Environment. Worked on Testing with different testing tools and prepared unit testing, Module testing, System testing and Acceptance testing plans.
-•	Excellent knowledge of Software Quality Assurance testing life cycle & experience in Functional Testing UI, developer tools (Object AID).
+Over 7 years of IT experience in Analysis, Design, Development, Implementation and Testing of Client/Server, Distributed, Internet and E-Commerce Applications using Object Oriented and RDBMS Concepts.
+Expertise in developing J2EE applications and deploying it in Web sphere 6.0, Web Logic11, and Tomcat, Web services technologies.
+Experience in Banking Industry, ECOM and Health Care Industry.
+Expertise in using various open source frameworks like Object Relational Mapping Technologies - Hibernate, JPA.
+Expertise in development frameworks spring, EJB, Hibernate and Mybatis. 
+Experience in using the Object Relational Mapping Tool Hibernate and SQL Mapping framework tool MyBatis, strong in using XML mappings and Java Objects.
+Extensive experience in modeling presentation tier using MVC2 (Model-View-Controller) architecture.
+Strong working experience with IDE's - Eclipse 3.x, RAD 8.0.
+Design and development of web-based applications using different Web and application servers such as Apache Tomcat.
+Strong analytical and conceptual skills in database design and development using Oracle, DB2, MySql.
+Designed, configured and managed public/private cloud infrastructures utilizing Amazon Web Services (aws).
+Experienced in making project documentation such as Technical Design Document, Test Cases, User Manual, Backup and Recovery Plans etc.
+Good experience with Multithreading, Collections and Exceptions.
+Good Knowledge in UNIX commands and in creating Unix Shell Scripts.
+Developed scripts for unit testing usingJUnit.
+Experience in using various Configuration Management tools like CVS, Clear Case and SVN.
+Worked on frameworks like Spring framework, O/R Mapping Hibernate framework and web services (SOAP and Restful). 
+Wrote complex SQL Queries, Stored Procedures and Triggers. 
+Worked on relational databases like ORACLE, POSTGRESQL and SQL Server. Have Knowledge on MONGODB and NO SQL
+Self-motivated and enjoy working in a technically challenging environment, possess excellent communication and interpersonal skills.
+Served as a role model / mentor for other members of the team which include design reviews, debugging assistance, brainstorming, code reviews, process enforcement, working multiple projects and delivering on time. 
+Good exposure to Agile Work Environment. Worked on Testing with different testing tools and prepared unit testing, Module testing, System testing and Acceptance testing plans.
+Excellent knowledge of Software Quality Assurance testing life cycle & experience in Functional Testing UI, developer tools (Object AID).
 
 
 education:
@@ -95,30 +95,30 @@ experiences:
       company: Startup Hubs, San Francisco
       details: |
       Responsibilities: 
-	 Developed Java components to render web content and also to store content meta data information apart from storing in IBM WCM repository.
-•	Application was developed using the Core Java concepts. 
-•	Involved in Component Design, which is created in the Conduct stage, at which point it is reviewed against the quality criteria defined for it
-•	Worked on Vignette and WCM Content Management Systems, WCM provides a flexibility to migrate content without impacting the presentation layer.
-•	Developed a CDA\CMA component using ASP.NETwhich holds the authentication\entitlement as well as various business rules, by utilizing the component we would be able to avoid rewrite efforts. Performance will be similar to current application. 
-•	Java component developed would interact with backend Integration Layer. Custom Java application with SQL server 2005 database as backend. It provides content rendering feature for FP Portal to end users.
-•	IBM web content authoring is used to author web content and it is integrated with CMA database through custom build Java component. It will leverage existing custom Java Application (CDA) to display content details depending upon user role.
-•	Created several JSP's and populated them with data from database. 
-•	Created web services based on SOA.
-•	Designing and developing REST based Web service calls using Jax-RS.
-•	Designed and developed SOAP web service to provide data to other systems.
-•	Provided spring based RESTful Web service.
-•	Writing Java code to use Apache Axis web service API, developing Oracle PL/SQL Stored Procedures code.
-•	Worked within SOA based enterprise framework to build web services.
-•	Planned and implemented various SQL, Stored Procedure, and triggers. 
-•	Implemented the critical functionalities using Java and Oracle packages &stored procedures. Developed UNIX based scripts to apply database scripts on beta, QA and production servers. Performance tuning of SQL.
-•	Used My SQL database and implemented connection pooling.  
-•	Performed building and deployment of WAR, JAR files on test, stage, and production systems in Apache Tomcat application server.  
-•	 Implemented the DAOs and service layers for the various backend systems and services. 
-•	Implemented an automated functional testing suite and increased test coverage from 20 to nearly 80.
-•	Analysis of test requirement and automation feasibility.
-•	Create team specific agile process flow in JIRA to move tasks from one activity to another.
-•	Investigated various products from Atlassians JIRA.
-•	 Involved in monthly and weekly Releases, and provided production support as part of the SLA. 
+  Developed Java components to render web content and also to store content meta data information apart from storing in IBM WCM repository.
+	Application was developed using the Core Java concepts. 
+	Involved in Component Design, which is created in the Conduct stage, at which point it is reviewed against the quality criteria defined for it
+	Worked on Vignette and WCM Content Management Systems, WCM provides a flexibility to migrate content without impacting the presentation layer.
+	Developed a CDA\CMA component using ASP.NETwhich holds the authentication\entitlement as well as various business rules, by utilizing the component we would be able to avoid rewrite efforts. Performance will be similar to current application. 
+	Java component developed would interact with backend Integration Layer. Custom Java application with SQL server 2005 database as backend. It provides content rendering feature for FP Portal to end users.
+	IBM web content authoring is used to author web content and it is integrated with CMA database through custom build Java component. It will leverage existing custom Java Application (CDA) to display content details depending upon user role.
+	Created several JSP's and populated them with data from database. 
+	Created web services based on SOA.
+	Designing and developing REST based Web service calls using Jax-RS.
+	Designed and developed SOAP web service to provide data to other systems.
+	Provided spring based RESTful Web service.
+	Writing Java code to use Apache Axis web service API, developing Oracle PL/SQL Stored Procedures code.
+	Worked within SOA based enterprise framework to build web services.
+	Planned and implemented various SQL, Stored Procedure, and triggers. 
+	Implemented the critical functionalities using Java and Oracle packages &stored procedures. Developed UNIX based scripts to apply database scripts on beta, QA and production servers. Performance tuning of SQL.
+	Used My SQL database and implemented connection pooling.  
+	Performed building and deployment of WAR, JAR files on test, stage, and production systems in Apache Tomcat application server.  
+	 Implemented the DAOs and service layers for the various backend systems and services. 
+	Implemented an automated functional testing suite and increased test coverage from 20 to nearly 80.
+	Analysis of test requirement and automation feasibility.
+	Create team specific agile process flow in JIRA to move tasks from one activity to another.
+	Investigated various products from Atlassians JIRA.
+	 Involved in monthly and weekly Releases, and provided production support as part of the SLA. 
 Environment:Java 1.7, Vignette V8.1, Vignette Development Center, IBM WCM,  XML, Eclipse 3.8, SOAP Web Service,Restful,JavaScript, JIRA, SVN, MySQL,OracleSqlDeveloper,Unix, Apache Tomcat Server.
 
         
@@ -128,10 +128,10 @@ Environment:Java 1.7, Vignette V8.1, Vignette Development Center, IBM WCM,  XML,
       time: Oct’15 to Apr’17
       details: |
         Responsibilities:
-•	Different systems will be updated with the data collected in these web screens, also obtain data from various systems using web services.
-•	All the functionality is implemented using Spring IO / Spring Boot, and Hibernate ORM. 
-•	Implemented application level persistence using mybatis and Spring. 
-•	Implemented Java EE components using Spring MVC, Spring IOC, spring transactions and Spring security modules.
+	Different systems will be updated with the data collected in these web screens, also obtain data from various systems using web services.
+	All the functionality is implemented using Spring IO / Spring Boot, and Hibernate ORM. 
+	Implemented application level persistence using mybatis and Spring. 
+	Implemented Java EE components using Spring MVC, Spring IOC, spring transactions and Spring security modules.
 •	Used Microservices architecture to break down the monolithic application to independent components.
 •	Implemented multi-threaded jobs to process the loan requests concurrently.
 •	Deployed applications on to Amazon EC2 to obtain the application scalability.
