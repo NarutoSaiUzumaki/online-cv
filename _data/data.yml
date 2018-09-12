@@ -233,7 +233,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Core Java, JEE
         level: 98%
 
       - name: Javascript & jQuery
@@ -245,10 +245,10 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Spring boot & Spring batch
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: RDMS Database, MonoDB
         level: 60%
  
 footer: >
